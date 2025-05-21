@@ -1,5 +1,5 @@
 <template>
-  <div class="fixed inset-0 z-0 overflow-hidden">
+  <div class="h-screen relative overflow-hidden">
     <!-- Vidéo plein écran -->
     <video class="w-full h-full object-cover" autoplay muted loop playsinline preload="auto">
       <source src="/video/video_hero.mp4" type="video/mp4" />

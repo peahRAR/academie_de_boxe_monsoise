@@ -2,8 +2,11 @@
 
 @theme {
 
+    /* Fonts */
   --font-bebas: "Bebas Neue", sans-serif;
+  --font-inter: "Inter", sans-serif;
+  --font-script: "Caveat", cursive;
 
-
+    /* Color */
   --color-dark-blue: #020712;
 }

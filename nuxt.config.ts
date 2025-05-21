@@ -9,7 +9,7 @@ export default defineNuxtConfig({
       tailwindcss(),
     ],
   },
-  modules: ['@nuxt/image', '@nuxtjs/google-fonts'],
+  modules: ['@nuxt/image', '@nuxtjs/google-fonts','@nuxt/icon'],
   image: {
     provider: 'ipx',
     quality: 100,
@@ -28,6 +28,8 @@ export default defineNuxtConfig({
     display: 'swap',
     families: {
       'Bebas+Neue': true,
+      'Caveat': true,
+      Inter: [400, 500, 700],
     },
   },
 })
