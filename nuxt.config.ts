@@ -2,6 +2,10 @@ import tailwindcss from "@tailwindcss/vite";
 
 export default defineNuxtConfig({
   compatibilityDate: "2024-11-01",
+  ssr: true,
+  nitro: {
+    preset: 'netlify',
+  },
   devtools: { enabled: true },
   css: ['~/assets/css/main.css'],
   vite: {
@@ -9,7 +13,7 @@ export default defineNuxtConfig({
       tailwindcss(),
     ],
   },
-  modules: ['@nuxt/image', '@nuxtjs/google-fonts','@nuxt/icon'],
+  modules: ['@nuxt/image', '@nuxtjs/google-fonts', '@nuxt/icon'],
   image: {
     provider: 'ipx',
     quality: 100,
