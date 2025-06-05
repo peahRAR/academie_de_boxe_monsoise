@@ -36,4 +36,15 @@ export default defineNuxtConfig({
       Inter: [400, 500, 700],
     },
   },
+
+  icon: {
+    mode: 'css',
+    cssLayer: 'base',
+    provider: 'server',
+    customCollections: [{
+      prefix: 'box',
+      dir: './assets/icons/custom',
+    },
+    ],
+  },
 })
