@@ -21,12 +21,12 @@
             <div
                 class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 w-full max-w-6xl text-sm uppercase font-bebas mt-8">
                 <div class="space-y-3 text-center flex-col">
-                    <Icon name="box:punching-bag" class=" mx-auto" style="color: white" size="60" />
+                    <Icon name="box:punching-bag" class=" mx-auto" color="white" size="60" />
                     <h3 class="text-lg m-0">Boxe Loisir</h3>
                     <p class="font-body text-regular uppercase">Ludique et idéal pour brûler des calories</p>
                 </div>
                 <div class="space-y-3 text-center flex-col">
-                    <Icon name="box:gloves" class=" mx-auto text-white" size="60" />
+                    <Icon name="box:gloves" class=" mx-auto " color="white" size="60" />
                     <h3 class="text-lg m-0">Boxe Amateur</h3>
                     <p class="font-body text-regular uppercase">Intense et idéale pour se dépasser en compétition</p>
                 </div>
@@ -36,7 +36,7 @@
                     <p class="font-body text-regular uppercase">Accessible et parfaite pour apprendre en sécurité</p>
                 </div>
                 <div class="space-y-3 text-center flex-col">
-                    <Icon name="box:female-boxer" class=" mx-auto" size="60" />
+                    <Icon name="box:female-boxer" class=" mx-auto" color="white" size="60" />
                     <h3 class="text-lg m-0">Ladies Boxing</h3>
                     <p class="font-body text-regular uppercase">Entre femmes, en confiance et sans pression</p>
                 </div>
