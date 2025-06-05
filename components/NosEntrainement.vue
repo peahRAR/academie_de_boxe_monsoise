@@ -7,7 +7,7 @@
             </video>
 
             <!-- Overlay bleuté avec clip-path haut -->
-            <div class="absolute triangle-clip-top top-0 left-0 w-full h-[120px] bg-dark-blue z-10" />
+            <div class="absolute triangle-clip-top top-0 left-0 w-full h-[120px] bg-gray-900 z-20" />
             <!-- Overlay principal semi-transparent -->
             <div class="absolute inset-0 bg-dark-blue/80 z-10" />
             <!-- Clip-path bas -->
@@ -59,9 +59,9 @@
                         En savoir plus
                     </NuxtLink>
                 </div>
-
             </div>
         </div>
+        
     </section>
 </template>
 
