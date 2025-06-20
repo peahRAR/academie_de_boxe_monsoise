@@ -6,78 +6,67 @@
                 <!-- Bloc gauche : texte -->
                 <div class="w-full md:w-1/2 space-y-6">
                     <h2 class="text-4xl md:text-5xl font-bebas mb-0 uppercase leading-tight">
-                        Académie de Boxe Monsoise
+                        Votre Club de Boxe Anglaise
                     </h2>
                     <div class="text-4xl md:text-4xl font-script text-center pl-4 -mt-5 text-red-600">
-                        "La Bambam"
+                        "L'Esprit du Noble Art"
                     </div>
                     <div class="font-body text-base md:text-lg leading-relaxed space-y-6">
                         <p>
-                            L’<strong>Académie de Boxe Monsoise</strong>, surnommée affectueusement <em>“La
-                                Bambam”</em>,
-                            est bien plus qu’un simple club de boxe anglaise. Nichée au cœur du <strong>Fort de
-                                Mons</strong>,
-                            à Villeneuve d’Ascq dans la métropole lilloise, elle représente un lieu d’apprentissage, de
-                            transmission
-                            et de dépassement de soi. Depuis sa création, le club s’engage à offrir un environnement à
-                            la fois
-                            structuré, accessible et humain, où chacun peut évoluer à son rythme, qu’il soit débutant ou
-                            boxeur confirmé.
+                            Bien plus qu’un simple lieu d’entraînement, <strong>votre club de boxe</strong> incarne des
+                            valeurs fortes :
+                            passion, engagement, et dépassement de soi. Pensé comme un espace de transmission et
+                            d’épanouissement, il s’adresse
+                            à tous ceux qui souhaitent découvrir ou perfectionner l’art de la boxe anglaise.
                         </p>
 
                         <p>
-                            Nos entraînements s’articulent autour d’un encadrement rigoureux, dispensé par des coachs
-                            passionnés,
-                            expérimentés et attentifs au progrès de chacun. Ici, la boxe est enseignée comme un
-                            <strong>art du mouvement et de la discipline</strong>, dans le respect des valeurs sportives
-                            :
-                            courage, rigueur, respect et persévérance.
+                            Les séances sont encadrées par des coachs qualifiés et attentifs, alliant rigueur technique
+                            et approche pédagogique.
+                            Ici, chaque adhérent évolue à son rythme, qu’il soit débutant ou pratiquant confirmé.
+                            L’objectif : progresser en
+                            toute sécurité dans une atmosphère motivante et respectueuse.
                         </p>
 
                         <p>
-                            L’Académie accueille aussi bien les jeunes à partir de 8 ans que les adultes, avec des
-                            séances adaptées
-                            à tous les niveaux. Du loisir à la compétition, chacun trouve sa place dans un cadre
-                            bienveillant où l’on
-                            progresse physiquement autant que mentalement. Des sections spécifiques, comme le travail
-                            technique,
-                            le cardio-boxe ou la préparation physique, viennent enrichir les entraînements pour
-                            permettre un
-                            développement complet.
+                            Le club propose des cours adaptés à tous les niveaux et à tous les âges, à partir de 8 ans.
+                            Des modules spécifiques
+                            sont également proposés : préparation physique, cardio-boxe, perfectionnement technique ou
+                            encore accompagnement
+                            à la compétition.
                         </p>
 
                         <p>
-                            La Bambam, c’est aussi une communauté : une ambiance chaleureuse, soudée, où les liens se
-                            tissent au
-                            fil des rounds. Des événements internes, des stages, et des rencontres interclubs ponctuent
-                            la saison
-                            pour renforcer l’esprit d’équipe et la cohésion.
+                            L’esprit de groupe occupe une place centrale. Les entraînements favorisent l’entraide, la
+                            confiance et la cohésion.
+                            Des événements, stages et rencontres viennent enrichir la saison pour renforcer les liens
+                            entre pratiquants.
                         </p>
 
                         <p>
-                            Que tu sois là pour te remettre en forme, apprendre à te défendre, préparer une compétition
-                            ou
-                            simplement canaliser ton énergie dans un cadre stimulant,
-                            <strong>l’Académie de Boxe Monsoise t’ouvre ses portes</strong>.
-                            Entre dans le ring. Et découvre ce que tu as vraiment dans les gants.
+                            Que tu sois là pour te remettre en forme, apprendre à te défendre, canaliser ton énergie ou
+                            viser la compétition,
+                            <strong>ce club t’offre un cadre stimulant pour révéler ton potentiel</strong>. Monte sur le
+                            ring. Et découvre de quoi tu es capable.
                         </p>
                     </div>
                 </div>
+
 
                 <!-- Bloc droit : grille de photos -->
                 <div class="w-full md:w-1/2 flex justify-center gap-6">
                     <!-- Colonne de gauche -->
                     <div class="flex flex-col gap-4 w-[45%]">
-                        <NuxtImg src="/img/ABM1.jpg" alt="Photo 1" class="aspect-square object-cover rounded" />
-                        <NuxtImg src="/img/ABM2.jpg" alt="Photo 2" class="aspect-square object-cover rounded" />
-                        <NuxtImg src="/img/ABM3.jpg" alt="Photo 3" class="aspect-square object-cover rounded" />
+                        <NuxtImg src="/img/img-placeholder1.png" alt="Photo 1" class="aspect-square object-cover rounded" />
+                        <NuxtImg src="/img/img-placeholder2.png" alt="Photo 2" class="aspect-square object-cover rounded" />
+                        <NuxtImg src="/img/img-placeholder3.png" alt="Photo 3" class="aspect-square object-cover rounded" />
                     </div>
 
                     <!-- Colonne de droite décalée -->
                     <div class="flex flex-col gap-4 w-[45%] translate-y-10">
-                        <NuxtImg src="/img/ABM4.jpg" alt="Photo 4" class="aspect-square object-cover rounded" />
-                        <NuxtImg src="/img/ABM5.jpg" alt="Photo 5" class="aspect-square object-cover rounded" />
-                        <NuxtImg src="/img/ABM6.jpg" alt="Photo 6" class="aspect-square object-cover rounded" />
+                        <NuxtImg src="/img/img-placeholder4.png" alt="Photo 4" class="aspect-square object-cover rounded" />
+                        <NuxtImg src="/img/img-placeholder5.png" alt="Photo 5" class="aspect-square object-cover rounded" />
+                        <NuxtImg src="/img/img-placeholder6.png" alt="Photo 6" class="aspect-square object-cover rounded" />
                     </div>
                 </div>
             </div>

@@ -8,7 +8,7 @@
         <div class="horaires">
           <div class="flex items-center gap-2 mb-6">
             <Icon name="uil:schedule" size="30" class="text-red-500 " />
-            <h3 class="text-3xl font-bebas uppercase pt-1">Horraire</h3>
+            <h3 class="text-3xl font-bebas uppercase pt-1">Horaires</h3>
           </div>
 
           <div class="space-y-2 font-body text-base md:text-lg">
