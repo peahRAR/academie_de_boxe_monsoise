@@ -81,6 +81,5 @@
 .triangle-clip-bot {
     clip-path: polygon(0 100%, 100% 0%, 100% 100%);
     transform: scaleY(-1);
-
 }
 </style>
